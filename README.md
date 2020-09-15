@@ -7,8 +7,8 @@
 5 inputs: 
 Input 1: A File containing the number of jobs, and then lists the parent child relationships:
 Ex:	7		7 is the total number of jobs  
- 3 4 		3 is the parent/prerequisite to 4
- 5 19		5 is the parent/prerequisite to 19
+	3 4 		3 is the parent/prerequisite to 4
+ 	5 19		5 is the parent/prerequisite to 19
 Input 2: A File containing the number of jobs and the time for each job
 Ex:	7		7 is the total number of jobs
 	1 23		Job 1 takes 23 units of time
