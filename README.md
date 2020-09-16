@@ -1,10 +1,11 @@
 # Scheduling
 
 ## Scheduling Algorithm Project for CS323:
-### Objective: Given a list of jobs, the length of time required to complete each individual job, the dependencies existing between the jobs, and a predetermined number of Processors to complete those jobs, return a schedule.
+### Project Description: This algorithm returns a schedule when given a list of jobs, the length of time required to complete each individual job, the dependencies existing between the jobs, and a predetermined number of processors to complete those jobs.
 
-```
-5 inputs: 
+
+### Example Input
+``` 
 Input 1: A File containing the number of jobs, and then lists the parent child relationships:
 Ex:	7		7 is the total number of jobs  
 	3 4 		3 is the parent/prerequisite to 4
@@ -18,6 +19,7 @@ Input 4: An empty text file – prints the schedule as it is being built
 Input 5: An empty text file – prints the job Array
 ```
 
+### Design Process
 ```
 Step 0:	Initialization: 
 	G -> graph (from input file 1)
