@@ -1,6 +1,6 @@
 # Scheduling
 
-## Scheduling Algorithm, as taught by Dr. Tsaiyun Phillips:
+## Scheduling Algorithm Project for CS323:
 ### Objective: Given a list of jobs, the length of time required to complete each individual job, the dependencies existing between the jobs, and a predetermined number of Processors to complete those jobs, return a schedule.
 
 ```
