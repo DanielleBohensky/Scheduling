@@ -15,8 +15,8 @@ Ex:	7		7 is the total number of jobs
 	1 23		Job 1 takes 23 units of time
 	2 5		Job 2 take 5 units of time
 Input 3: A string stating the number of total processors 
-Input 4: An empty text file – prints the schedule as it is being built
-Input 5: An empty text file – prints the job Array
+Input 4: An empty text file – prints the final completed schedule
+
 ```
 
 ### Design Process
