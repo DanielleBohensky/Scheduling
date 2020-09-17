@@ -4,7 +4,7 @@
 ### Project Description: This algorithm returns a schedule when given a list of jobs, the length of time required to complete each individual job, the dependencies existing between the jobs, and a predetermined number of processors to complete those jobs.
 
 
-### Example Input
+### Sample Input
 ``` 
 Input 1: A File containing the number of jobs, and then lists the parent child relationships:
 Ex:	7		7 is the total number of jobs  
