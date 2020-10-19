@@ -1,7 +1,7 @@
 # Scheduling
 
 ## Scheduling Algorithm Project for CS323:
-### Project Description: This algorithm returns a schedule when given a list of jobs, the length of time required to complete each individual job, the dependencies existing between the jobs, and a predetermined number of processors to complete those jobs.
+### Project Description: This project returns a schedule when given a list of jobs, the length of time required to complete each individual job, the dependencies existing between the jobs, and a predetermined number of processors to complete those jobs.
 
 
 ### Sample Input
